@@ -1,0 +1,24 @@
+{
+  "name": "@nrd/fua.resource.universe.color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/load.js",
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "expect": "^26.6.2",
+    "@nrd/fua.core.util": "^1.0.0",
+    "@nrd/fua.module.dfc": "^1.0.0",
+    "@nrd/fua.module.rdf": "^1.0.0",
+    "@nrd/fua.module.persistence": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parse": "node src/parse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git02.int.nsc.ag:10022/research/fua/resource/universe/color.git"
+  },
+  "author": "spetrac@nicos-ag.com",
+  "license": "UNLICENSED"
+}
