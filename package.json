@@ -11,6 +11,10 @@
     "@nrd/fua.module.rdf": "^1.0.0",
     "@nrd/fua.module.persistence": "^1.0.0"
   },
+  "files": [
+    "src/*",
+    "data/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "parse": "node src/parse.js"
