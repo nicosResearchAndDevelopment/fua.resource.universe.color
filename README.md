@@ -1,4 +1,4 @@
-# @nrd/fua.resource.universe.color
+# @fua/resource.universe.color
 
 - **Model:** [`colors.ttl`](data/colors.ttl)
 - **Source:** [`colors.csv`](data/colors.csv)
